@@ -2,7 +2,7 @@
 
 A short course project with 5 modules and supporting notebooks for code, assignments, and experiments.
 
-![Course](/Users/egorfolley/TechDev/agentic_ai_DeepLearning/assets/Agentic_AI_certificate.png)
+![Course](assets/Agentic_AI_certificate.png)
 
 ## Contents
 
